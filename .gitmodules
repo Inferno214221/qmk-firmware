@@ -28,3 +28,6 @@
 [submodule "modules/zsa"]
 	path = modules/zsa
 	url = https://github.com/zsa/qmk_modules.git
+[submodule "keyboards/zsa/moonlander/keymaps/inferno214221"]
+	path = keyboards/zsa/moonlander/keymaps/inferno214221
+	url = git@github.com:Inferno214221/qmk-keymap.git
